@@ -2,5 +2,5 @@
 
 Simple paint program in Java
 Features:
-  +Resizable Pen Size
-  +Undo function
+  + Resizable Pen Size
+  + Undo function
